@@ -6,3 +6,5 @@ extracts the plate characters. the project consists of three different parts tha
 - character_reader: it recieves an image of a character and returns whatever character it finds in the image. we pass 8 characters of a plate to this model and 
 this way we finally read the plate.
 
+***Attention: I used this online free annotation tool for this project to create the labels: https://imglab.in/***
+
